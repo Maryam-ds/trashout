@@ -1,0 +1,15 @@
+streamlit>=0.65
+streamlit-folium
+folium==0.11
+seaborn
+lightgbm
+geopy
+tensorflow
+requests_toolbelt
+requests
+osmnx
+networkx
+pycountry-convert
+geocoder
+reverse-geocode
+reverse_geocoder
